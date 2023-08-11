@@ -1,2 +1,2 @@
 Line one Example
-second   line
+second line
